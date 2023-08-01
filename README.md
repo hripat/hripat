@@ -9,7 +9,7 @@ In my spare time, I enjoy reading, listening to music and playing video games.
 Feel free to contact me if you want to chat about almost anything! Shoot me an email or LinkedIn DM.
 
 ## 📫  Contact Me:
- - [LinkedIn] (https://www.linkedin.com/in/hridayi-patel-67167612a/)
+ - [LinkedIn](https://www.linkedin.com/in/hridayi-patel-67167612a/)
  - Email: hridayi2305@gmail.com
 
 ## 🏗️ Currently working on:
