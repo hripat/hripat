@@ -1,16 +1,34 @@
-### Hi there 👋
+## 👋 Hi there!
 
-<!--
-**hripat/hripat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Hridayi and I'm currently located in the Boston Metropolitan Area!
 
-Here are some ideas to get you started:
+My background is in Biomedical Engineering with a focus on Image Classification during my Master's thesis project. I'm very interested in Data Science and AI and am currently learning more about Deep Learning and am excited to share some previous (and ongoing) projects on here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I enjoy reading, listening to music and playing video games.
+
+Feel free to contact me if you want to chat about almost anything! Shoot me an email or LinkedIn DM.
+
+## 📫  Contact Me:
+ - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hridayi-patel-67167612a/)
+ - Email: hridayi2305@gmail.com
+
+## 🏗️ Currently working on:
+
+- Exploring Kaggle and looking for new projects!
+
+## 📸 Projects:
+
+[Malaria Detection using CNNs](https://github.com/hripat/Malaria-Detection)
+
+[Street View Housing Numbers using CNN and ANN](https://github.com/hripat/SVHN_Classification)
+
+[Intro to Python and Data Analysis using PIMA Diabetes Dataset](https://github.com/hripat/Diabetes-Data-Analysis)
+
+
+## 👨‍💻 My Tech Stack
+
+ - Python
+ - Jupyter Notebook
+ - MATLAB
+ - Image Classification
+ - Machine Learning
