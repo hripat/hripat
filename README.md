@@ -33,6 +33,7 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 
  - Python
  - Jupyter Notebook
+ - TensorFlow
  - MATLAB
  - Image Classification
  - Machine Learning
