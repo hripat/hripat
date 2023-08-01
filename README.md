@@ -26,6 +26,8 @@ Feel free to contact me if you want to chat about almost anything! Shoot me an e
 
 [Intro to Python and Data Analysis using PIMA Diabetes Dataset](https://github.com/hripat/Diabetes-Data-Analysis)
 
+[Image Segmentation using Neural Network](https://github.com/hripat/ultrasound-segmentation)
+
 
 ## 👨‍💻 My Tech Stack
 
