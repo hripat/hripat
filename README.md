@@ -4,6 +4,8 @@ My name is Hridayi and I'm currently located in the Boston Metropolitan Area!
 
 My background is in Biomedical Engineering with a focus on Image Classification during my Master's thesis project. I'm very interested in Data Science and AI and am currently learning more about Deep Learning and am excited to share some previous (and ongoing) projects on here.
 
+I recently completed a cerfication course called Applied Data Science Program at MIT Professional Education where I got familiar with many data science topics and projects. 
+
 In my spare time, I enjoy reading, listening to music and playing video games.
 
 Feel free to contact me if you want to chat about almost anything! Shoot me an email or LinkedIn DM.
